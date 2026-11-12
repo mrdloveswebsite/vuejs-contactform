@@ -1,9 +1,9 @@
 <script setup>
-import SubmitForm from './components/SubmitForm.vue'
+import ContactForm from './components/ContactForm.vue';
 </script>
 
 <template>
-  <SubmitForm />
+  <ContactForm />
 </template>
 
 <style scoped></style>
